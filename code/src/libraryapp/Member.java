@@ -1,4 +1,9 @@
 package libraryapp;
+/*
+BIT504
+Jonathan Robins
+5119350
+*/
 
 public class Member {
 	private String memberID;
